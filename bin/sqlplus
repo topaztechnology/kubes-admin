@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+exec /usr/lib/oracle/21/client64/bin/sqlplus "$@"

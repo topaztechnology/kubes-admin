@@ -1,13 +1,15 @@
-# Kubes admin image with postgres tools
+# Kubes admin image
 
 ## Overview
 
-An image that can be used for testing cluster behaviour, including
+An image that can be used for testing cluster behaviour, including:
 
-* IP tools
+* Networking tools
 * DNS tools
 * SMB tools
 * Postgres client & contrib (for pgbench)
+* SQL Server client
+* Oracle client & sqlplus
 
 ## Usage
 
